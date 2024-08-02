@@ -16,24 +16,8 @@ The web page looks like this
 ### About Section
 ![About Section](screen2.png)
 
-## Getting Started
-To run this project locally, follow these steps:
 
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/princess-diana-tribute.git
-Navigate to the Project Directory
-
-bash
-Copy code
-cd princess-diana-tribute
-Open the HTML File
-
-Open index.html in your preferred web browser to view the tribute page.
- 
-Use the link to see the deployed web page:
+Use the link to see the deployed web page: https://nehaannie.github.io/Tribute_page_for_Princess_Diana/
 
 ## Code Structure
 index.html: The main HTML file containing the structure and content of the tribute page.
